@@ -14,7 +14,7 @@ GitHub: <a href="https://github.com/mmdjiji/helper">mmdjiji/helper</a>
 </div>
 
 ## 缘起
-关于为什么要写这么一个文档，其实就是为了解决很多重复性的问题。大部分的问题都可以通过搜索引擎找到原因，解决不了的也可以先自己研究研究，就算是求助于人也要尽量把问题说明白。很多人都不懂这个道理，所以这个文档收集了一些资料，包括《提问的艺术》之类的。你可以记住这个链接: [https://jiji.pro/helper](https://jiji.pro/helper)，然后直接发给求助人即可。
+关于为什么要写这么一个文档，其实就是为了解决很多重复性的问题。大部分的问题都可以通过搜索引擎找到原因，解决不了的也可以先自己研究研究，就算是求助于人也要尽量把问题说明白。很多人都不懂这个道理，所以这个文档收集了一些资料，包括 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 之类的。你可以记住这个链接: [https://jiji.pro/helper](https://jiji.pro/helper)，然后直接发给求助人即可。
 
 
 ## 版权声明
