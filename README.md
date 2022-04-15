@@ -1,46 +1,21 @@
-# Welcome to use MkDocs Template
+<div align="center">
 
-GitHub: [mmdjiji/mkdocs-template](https://github.com/mmdjiji/mkdocs-template)
+<img src="docs/assets/favicon.png" />
 
-A template of mkdocs by [JiJi](https://mmdjiji.com), for full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<h1>Helper</h1>
 
-## Continuous Deployment
-This repository uses GitHub Actions for continuous deployment. You don't need to build your documents manually. Just commit your documents (then run `git push`), and then turn on the GitHub Pages in the settings to access your online documents. (For this demo is [https://mmdjiji.github.io/mkdocs-template](https://mmdjiji.github.io/mkdocs-template))
+一个方便的手册，可以快速发给需要帮助的人
 
-## Commands
+<a href="https://jiji.pro/helper/"><img src="https://shields.io/badge/Read-Now-blue?style=for-the-badge&color=blue" /></a> &nbsp; 
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://shields.io/badge/License-BY--NC--SA--4.0-white?style=for-the-badge&color=green"></a>
 
-* `pip install -r requirements.txt` - Install requirements before use
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+GitHub: <a href="https://github.com/mmdjiji/helper">mmdjiji/helper</a>
 
-## Project layout
-```bash
-mkdocs.yml     # The configuration file.
-.github/
-    workflows/ # For the GitHub Actions
-docs/
-    index.md   # The documentation homepage.
-    ...        # Other markdown pages, images and other files.
-```
+</div>
 
-## Themes
-You can use the following code (add them to `mkdocs.yml`) to change your theme (default: `mkdocs`):
-```yaml
-theme:
-  name: mkdocs
-```
+## 缘起
+关于为什么要写这么一个文档，其实就是为了解决很多重复性的问题。大部分的问题都可以通过搜索引擎找到原因，解决不了的也可以先自己研究研究，就算是求助于人也要尽量把问题说明白。很多人都不懂这个道理，所以这个文档收集了一些资料，包括《提问的艺术》之类的。你可以记住这个链接: [https://jiji.pro/helper](https://jiji.pro/helper)，然后直接发给求助人即可。
 
-There are many choices for you:
 
-|theme's name|
-|-|
-|mkdocs|
-|readthedocs|
-|material|
-
-Of course, I would like to use `material` theme because of its simple and elegant.
-
-## License
-Follow [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs), use [BSD-2-Clause](LICENSE).
+## 版权声明
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
