@@ -61,3 +61,7 @@ markdown_extensions:
   - pymdownx.magiclink      # 自动识别超链接
   - pymdownx.tasklist:      # 复选框checklist
       custom_checkbox: true
+nav:
+  - 提问的智慧: index.md
+  - 安装向日葵: sun.md
+  - 异步沟通: async.md
